@@ -6,10 +6,21 @@ I'm Kristian from Bulgaria, and I enjoy Development! I like to work on software 
 <hr>
 
 ### Github statistics
-![Anurag's GitHub stats](https://github-readme-stats-kristian-georgievs-projects-4a28fe94.vercel.app/api?username=KristianLGeorgiev&show_icons=true&theme=transperent)
+![Anurag's GitHub stats](https://github-readme-stats-kristian-georgievs-projects-4a28fe94.vercel.app/api?username=KristianLGeorgiev&show_icons=true&theme=transperent&show=reviews,discussions_started,discussions_answered)
 
-[![Top Langs](https://github-readme-stats-kristian-georgievs-projects-4a28fe94.vercel.app/api/top-langs/?username=KristianLGeorgiev)](https://github.com/KristianLGeorgiev/github-readme-stats)
+#### Projects I worked on:
+[![Readme Card](https://github-readme-stats-kristian-georgievs-projects-4a28fe94.vercel.app/api/pin/?username=KristianLGeorgiev&repo=Tennis-cart)](https://github.com/KristianLGeorgiev/Tennis-cart)
 
+[![Readme Card](https://github-readme-stats-kristian-georgievs-projects-4a28fe94.vercel.app/api/pin/?username=KristianLGeorgiev&repo=Attendance-scripts)](https://github.com/KristianLGeorgiev/Attendance-scripts)
+
+#### Discountinued projects
+<details>
+  <summary>👨‍🎓 Web platform for students learning in an independent form of education</summary>
+  [View the repository] -> (https://github.com/KristianLGeorgiev/SFO_Project)
+
+  <summary>🏪 Store for electronics equipment</summary>
+  [View the repository] -> (https://github.com/KristianLGeorgiev/IMStore)
+</details>
 <hr>
 
 ### Languages and tools
@@ -25,4 +36,6 @@ I'm Kristian from Bulgaria, and I enjoy Development! I like to work on software 
   <img src="https://raw.githubusercontent.com/github/explore/9d47da057258d668c7dba9e9bb9cfcd45e2226e9/topics/git/git.png?size=48" width="35" height="35">&nbsp;
   <img src="https://avatars.githubusercontent.com/u/1769238?s=40&v=4" width="35" height="35"> 
 </p>
+
+
 
