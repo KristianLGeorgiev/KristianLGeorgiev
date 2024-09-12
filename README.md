@@ -18,8 +18,12 @@ I'm Kristian from Bulgaria, and I enjoy Development! I like to work on software 
   <summary>👨‍🎓 Web platform for students learning in an independent form of education</summary>
   [View the repository] -> (https://github.com/KristianLGeorgiev/SFO_Project)
 
-  <summary>🏪 Store for electronics equipment</summary>
-  [View the repository] -> (https://github.com/KristianLGeorgiev/IMStore)
+
+</details>
+
+<details>
+    <summary>🏪 Store for electronics equipment</summary>
+    [View the repository] -> (https://github.com/KristianLGeorgiev/IMStore)
 </details>
 <hr>
 
