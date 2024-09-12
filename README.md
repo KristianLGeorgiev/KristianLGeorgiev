@@ -6,3 +6,7 @@ I'm Kristian from Bulgaria, and I enjoy Development! I like to work on software 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristianLGeorgiev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristianLGeorgiev)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+### Languages and tools
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png?size=48">
