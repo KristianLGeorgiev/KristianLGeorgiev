@@ -8,5 +8,6 @@ I'm Kristian from Bulgaria, and I enjoy Development! I like to work on software 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristianLGeorgiev)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
+
 ### Languages and tools
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png?size=48">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png?size=48" width="35" height="35">
