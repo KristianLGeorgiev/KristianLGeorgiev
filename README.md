@@ -13,7 +13,7 @@ I'm Kristian from Bulgaria, and I enjoy Development! I like to work on software 
 
 [![Readme Card](https://github-readme-stats-kristian-georgievs-projects-4a28fe94.vercel.app/api/pin/?username=KristianLGeorgiev&repo=Attendance-scripts)](https://github.com/KristianLGeorgiev/Attendance-scripts)
 
-### Discountinued projects
+### Discontinued projects
 <details>
   <summary>👨‍🎓 Web platform for students learning in an independent form of education</summary>
   [View the repository] -> (https://github.com/KristianLGeorgiev/SFO_Project)
