@@ -5,14 +5,6 @@ I'm Kristian from Bulgaria, and I enjoy Development! I like to work on software 
 
 <hr>
 
-### Github statistics
-![Anurag's GitHub stats](https://github-readme-stats-kristian-georgievs-projects-4a28fe94.vercel.app/api?username=KristianLGeorgiev&show_icons=true&theme=transperent&show=reviews,discussions_started,discussions_answered)
-
-### Projects I worked on:
-[![Readme Card](https://github-readme-stats-kristian-georgievs-projects-4a28fe94.vercel.app/api/pin/?username=KristianLGeorgiev&repo=Tennis-cart)](https://github.com/KristianLGeorgiev/Tennis-cart)
-
-[![Readme Card](https://github-readme-stats-kristian-georgievs-projects-4a28fe94.vercel.app/api/pin/?username=KristianLGeorgiev&repo=Attendance-scripts)](https://github.com/KristianLGeorgiev/Attendance-scripts)
-
 ### Discontinued projects
 <details>
   <summary>👨‍🎓 Web platform for students learning in an independent form of education</summary>
